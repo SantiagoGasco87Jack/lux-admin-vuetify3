@@ -3,14 +3,14 @@ import { Icon } from "@iconify/vue";
 import { getPublicEventsApi } from "@/api/githubApi";
 import moment from "moment";
 const loading = ref(false);
-const username = ref("yangjiakai");
+const username = ref("santiagogasco87jack");
 const activityList = ref([
   {
     id: "29003260817",
     type: "PushEvent",
-    user: "yangjiakai",
-    avatar: "https://avatars.githubusercontent.com/u/35951244?",
-    repo: "yangjiakai/lux-admin-vuetify3",
+    user: "santiagogasco87jack",
+    avatar: "https://avatars.githubusercontent.com/u/130507136?",
+    repo: "santiagogasco87jack/lux-admin-vuetify3",
     content:
       "<p>Update Dashboard View</p><br/><div><span class='mr-1'>✅</span> Add PieChart1</div>",
     action: "Commit",
@@ -22,9 +22,9 @@ const mockAcitvitys = [
   {
     id: "29003260817",
     type: "PushEvent",
-    user: "yangjiakai",
-    avatar: "https://avatars.githubusercontent.com/u/35951244?",
-    repo: "yangjiakai/lux-admin-vuetify3",
+    user: "santiagogasco87jack",
+    avatar: "https://avatars.githubusercontent.com/u/130507136?",
+    repo: "santiagogasco87jack/lux-admin-vuetify3",
     content:
       "<p> Update Dashboard View</p><br/><div><span class='mr-1'>✅</span> Add PieChart1</div><div><span class='mr-1'>✅</span> Add PieChart2</div><div><span class='mr-1'>✅</span> Update ActivityCard,SalesCard,SOurcesCard</div>",
     action: "Commit",
@@ -33,9 +33,9 @@ const mockAcitvitys = [
   {
     id: "29003260817",
     type: "PushEvent",
-    user: "yangjiakai",
-    avatar: "https://avatars.githubusercontent.com/u/35951244?",
-    repo: "yangjiakai/lux-admin-vuetify3",
+    user: "santiagogasco87jack",
+    avatar: "https://avatars.githubusercontent.com/u/130507136?",
+    repo: "santiagogasco87jack/lux-admin-vuetify3",
     content:
       "<p>Update ChatBot</p><br/><div><span class='mr-1'>✅</span> Chatbot1 Add Stream</div><div><span class='mr-1'>✅</span> Add ScrollToBottom Common Method</div>",
     action: "Commit",

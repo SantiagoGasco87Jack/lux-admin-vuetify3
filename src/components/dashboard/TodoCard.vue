@@ -55,7 +55,7 @@ const getLabelColor = (id: string) => {
             </div>
             <v-avatar size="40">
               <v-img
-                src="https://avatars.githubusercontent.com/u/35951244?v=4"
+                src="https://avatars.githubusercontent.com/u/130507136?v=4"
                 alt="alt"
               />
             </v-avatar>

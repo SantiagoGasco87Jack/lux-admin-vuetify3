@@ -26,7 +26,7 @@ instance.interceptors.response.use(
   }
 );
 
-// https://api.github.com/users/yangjiakai/events/public
+// https://api.github.com/users/santiagogasco87jack/events/public
 
 // Get public events for a user
 export const getPublicEventsApi = (username: string) => {

@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/vite-v4.2.1-blueviolet.svg" alt="element-ui">
   </a>
   
-  <a href="https://github.com/yangjiakai/lux-admin-vuetify3/blob/main/LICENSE">
+  <a href="https://github.com/santiagogasco87jack/lux-admin-vuetify3/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 </p>
@@ -28,7 +28,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.md">English</a> | <b>简体中文</b>| <a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.jp.md">日本語</a>
+<a href="https://github.com/santiagogasco87jack/jk-vuetify3-lux-admin/blob/main/README.md">English</a> | <b>简体中文</b>| <a href="https://github.com/santiagogasco87jack/jk-vuetify3-lux-admin/blob/main/README.jp.md">日本語</a>
 </p>
 
 ## 📖 序文
@@ -62,7 +62,7 @@
 
 ## 💬 联络我
 
-- 邮箱 <a href="mailto:yjkbako@gmail.com">yjkbako@gmail.com</a>
+- 邮箱 <a href="mailto:devsantiago87@gmail.com">devsantiago87@gmail.com</a>
 - 推特 https://twitter.com/baibaixiang
 - 微信 <img  src='/src/assets/wechat-qrcode.png'  alt='DashBoard' width='300' />
 
@@ -142,7 +142,7 @@
 ## 👻 现在可以试试!
 
 ```
-git clone https://github.com/yangjiakai/lux-admin-vuetify3.git
+git clone https://github.com/santiagogasco87jack/lux-admin-vuetify3.git
 
 cd lux-admin-vuetify3
 

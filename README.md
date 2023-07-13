@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/vite-v4.2.1-blueviolet.svg" alt="element-ui">
   </a>
   
-  <a href="https://github.com/yangjiakai/lux-admin-vuetify3/blob/main/LICENSE">
+  <a href="https://github.com/santiagogasco87jack/lux-admin-vuetify3/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 </p>
@@ -28,7 +28,7 @@
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.zh-CN.md">简体中文</a>| <a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.jp.md">日本語</a>
+<b>English</b> | <a href="https://github.com/santiagogasco87jack/jk-vuetify3-lux-admin/blob/main/README.zh-CN.md">简体中文</a>| <a href="https://github.com/santiagogasco87jack/jk-vuetify3-lux-admin/blob/main/README.jp.md">日本語</a>
 </p>
 
 ## 📖Introduction
@@ -62,7 +62,7 @@ Built upon the elegant themes of Vuetify, we have established a clear and effici
 
 ## 💬Contact Me
 
-- Email <a href="mailto:yjkbako@gmail.com">yjkbako@gmail.com</a>
+- Email <a href="mailto:devsantiago87@gmail.com">devsantiago87@gmail.com</a>
 - Twitter https://twitter.com/baibaixiang
 - Wechat <img  src='/src/assets/wechat-qrcode.png'  alt='DashBoard' width='300' />
 
@@ -104,7 +104,7 @@ Built upon the elegant themes of Vuetify, we have established a clear and effici
 ## 👻Try it now!
 
 ```
-git clone https://github.com/yangjiakai/lux-admin-vuetify3.git
+git clone https://github.com/santiagogasco87jack/lux-admin-vuetify3.git
 
 cd lux-admin-vuetify3
 

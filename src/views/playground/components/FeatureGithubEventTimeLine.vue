@@ -3,23 +3,23 @@ import { Icon } from "@iconify/vue";
 import { getPublicEventsApi } from "@/api/githubApi";
 import moment from "moment";
 const loading = ref(false);
-const username = ref("yangjiakai");
+const username = ref("santiagogasco87jack");
 const activityList = ref([
   {
     id: 1,
     type: "PushEvent",
-    user: "yangjiakai",
-    avatar: "https://avatars.githubusercontent.com/u/35951244?",
-    repo: "yangjiakai/lux-admin-vuetify3",
+    user: "santiagogasco87jack",
+    avatar: "https://avatars.githubusercontent.com/u/130507136?",
+    repo: "santiagogasco87jack/lux-admin-vuetify3",
     content: "Update Readme",
     created_at: "2023-04-06T16:01:30Z",
   },
   {
     id: 2,
     type: "IssuesEvent",
-    user: "yangjiakai",
-    avatar: "https://avatars.githubusercontent.com/u/35951244?",
-    repo: "yangjiakai/lux-admin-vuetify3",
+    user: "santiagogasco87jack",
+    avatar: "https://avatars.githubusercontent.com/u/130507136?",
+    repo: "santiagogasco87jack/lux-admin-vuetify3",
     content: "全局的配置管理，比如dev配置，和pro配置隔离开",
     created_at: "2023-04-06T16:01:30Z",
   },

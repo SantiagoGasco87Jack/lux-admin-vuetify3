@@ -108,7 +108,7 @@ const navs = [
             <p class="my-4">2000+ Our clients are subscribe Around the World</p>
             <h6 class="font-weight-bold text-blue-grey my-2">Email</h6>
             <p class="text-body-2 text-primary">
-              <a href="#">yjkbako@gmail.com</a>
+              <a href="#">devsantiago87@gmail.com</a>
             </p>
           </v-col>
           <v-col cols="12" md="6">

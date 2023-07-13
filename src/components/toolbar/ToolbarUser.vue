@@ -91,12 +91,12 @@ const navs = [
           </template>
 
           <v-list-item-title class="font-weight-bold text-primary">
-            YANG J.K.
+            Santiago Gasco
             <StatusMenu />
           </v-list-item-title>
           <v-list-item-subtitle>
             <!-- {{ $store.state.user.email  }} -->
-            yjkbako@gmail.com
+            devsantiago87@gmail.com
           </v-list-item-subtitle>
         </v-list-item>
       </v-list>
